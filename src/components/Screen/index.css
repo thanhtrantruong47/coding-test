@@ -1,0 +1,9 @@
+.screen-container {
+  margin-top: 20px;
+  position: relative;
+  width: 100%;  /* Ensure container takes full width of parent */
+  height: 500px; /* Define a specific height */
+  max-width: 100%;
+  border: 1px solid black;
+  box-sizing: border-box;
+}

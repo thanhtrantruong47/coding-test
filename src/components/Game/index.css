@@ -1,0 +1,20 @@
+.container-game {
+  border: 1px solid black;
+  min-height: 50vh;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.group {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
